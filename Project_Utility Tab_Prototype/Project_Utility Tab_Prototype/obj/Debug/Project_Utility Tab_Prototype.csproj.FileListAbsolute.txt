@@ -1,0 +1,11 @@
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\bin\Debug\Project_Utility Tab_Prototype.exe.config
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\bin\Debug\Project_Utility Tab_Prototype.exe
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\bin\Debug\Project_Utility Tab_Prototype.pdb
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.csproj.AssemblyReference.cache
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility_Tab_Prototype.Form1.resources
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility_Tab_Prototype.Properties.Resources.resources
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.csproj.GenerateResource.cache
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.exe
+C:\Users\userr\Desktop\SO\Project_Utility Tab_Prototype\Project_Utility Tab_Prototype\obj\Debug\Project_Utility Tab_Prototype.pdb
